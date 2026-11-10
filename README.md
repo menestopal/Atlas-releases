@@ -6,7 +6,7 @@ Bu depoda kaynak kod yok, yalnız kurulum paketleri var.
 
 ## İndir
 
-**[Atlas_1.25.6.dmg](https://github.com/menestopal/Atlas-releases/releases/download/v1.25.6/Atlas_1.25.6.dmg)** (sürüm 1.25.6)
+**[Atlas_1.26.0.dmg](https://github.com/menestopal/Atlas-releases/releases/download/v1.26.0/Atlas_1.26.0.dmg)** (sürüm 1.26.0)
 
 Önceki sürümler: [Sürümler](https://github.com/menestopal/Atlas-releases/releases). Sürüm sayfasında yalnız `.dmg` dosyasını indir.
 "Source code" arşivlerini GitHub kendiliğinden ekler, kurulum için gerekmez.
@@ -18,7 +18,7 @@ Gereksinimler: Mac (Apple Silicon ya da Intel), Premiere Pro 2022 ve üstü (Pre
 
 ### 1. Diski aç
 
-İndirdiğin `Atlas_1.25.6.dmg` dosyasını çift tıkla. Finder'da **Atlas 1.25.6** adlı bir disk açılır:
+İndirdiğin `Atlas_1.26.0.dmg` dosyasını çift tıkla. Finder'da **Atlas 1.26.0** adlı bir disk açılır:
 
 | | |
 |---|---|
@@ -85,7 +85,7 @@ dizisi gönderilir. ffmpeg için (Homebrew varsa): `brew install ffmpeg`
 
 ## Güncelleme
 
-Yeni bir sürüm çıkınca panelin başlığında mavi **Yeni sürüm** rozeti belirir (1.25.6 ve sonrasında); tıklayınca bu indirme
+Yeni bir sürüm çıkınca panelin başlığında mavi **Yeni sürüm** rozeti belirir (1.26.0 ve sonrasında); tıklayınca bu indirme
 sayfası açılır. Panel hiçbir şey indirmez ya da kurmaz, yalnız haber verir. Yeni sürümün `.dmg` dosyasını indir, aynı adımları izle. `Atlas-Kur.command` eskisinin üzerine kurar; önbellek ve Claude
 bağlantısı olduğu gibi kalır. Premiere açıksa kurulumdan sonra yeniden başlat.
 
