@@ -85,7 +85,7 @@ dizisi gönderilir. ffmpeg için (Homebrew varsa): `brew install ffmpeg`
 
 ## Güncelleme
 
-Yeni bir sürüm çıkınca panelin başlığında mavi **Yeni sürüm** rozeti belirir (1.26.0 ve sonrasında); tıklayınca bu indirme
+Yeni bir sürüm çıkınca panelin başlığında mavi **Yeni sürüm** rozeti belirir (1.25.6 ve sonrasında); tıklayınca bu indirme
 sayfası açılır. Panel hiçbir şey indirmez ya da kurmaz, yalnız haber verir. Yeni sürümün `.dmg` dosyasını indir, aynı adımları izle. `Atlas-Kur.command` eskisinin üzerine kurar; önbellek ve Claude
 bağlantısı olduğu gibi kalır. Premiere açıksa kurulumdan sonra yeniden başlat.
 
