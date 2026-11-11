@@ -6,7 +6,7 @@ Bu depoda kaynak kod yok, yalnız kurulum paketleri var.
 
 ## İndir
 
-**[Atlas_1.33.0.dmg](https://github.com/menestopal/Atlas-releases/releases/download/v1.33.0/Atlas_1.33.0.dmg)** (sürüm 1.33.0)
+**[Atlas_1.34.0.dmg](https://github.com/menestopal/Atlas-releases/releases/download/v1.34.0/Atlas_1.34.0.dmg)** (sürüm 1.34.0)
 
 Önceki sürümler: [Sürümler](https://github.com/menestopal/Atlas-releases/releases). Sürüm sayfasında yalnız `.dmg` dosyasını indir.
 "Source code" arşivlerini GitHub kendiliğinden ekler, kurulum için gerekmez.
@@ -18,7 +18,7 @@ Gereksinimler: Mac (Apple Silicon ya da Intel), Premiere Pro 2022 ve üstü (Pre
 
 ### 1. Diski aç
 
-İndirdiğin `Atlas_1.33.0.dmg` dosyasını çift tıkla. Finder'da **Atlas 1.33.0** adlı bir disk açılır:
+İndirdiğin `Atlas_1.34.0.dmg` dosyasını çift tıkla. Finder'da **Atlas 1.34.0** adlı bir disk açılır:
 
 | | |
 |---|---|
